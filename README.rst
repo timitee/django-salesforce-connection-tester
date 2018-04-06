@@ -1,9 +1,9 @@
 When your salesforce-django connection isn't working in any of your projects, try this
 "connection only" app.
 
-***Usage***::
+**Usage**::
 
-pipenv install
+  pipenv install
 
 Change the settings in settings.py::
 
